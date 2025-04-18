@@ -2,21 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## About Me （范松林）
 
-I am a Ph.D. student at ...
+I am a Postdoctoral Research Fellow jointly affiliated with China Mobile (Shanghai) Industrial Research Institute and Fudan University, where I am a member of the [FVL](https://fvl.fudan.edu.cn/main.htm). My research lies at the intersection of multimodal learning and computer vision, with a particular emphasis on 3D data processing and analysis. I received my Ph.D. in 2024 from the School of Computer Science, Peking University, as a member of [NERCVT](https://idm.pku.edu.cn/), and spent five years as a research intern at Peng Cheng Laboratory.
+
+😊I am deeply driven by a passion for scientific innovation and a strong commitment to lifelong learning. 🤝Feel free to reach out for potential collaborations or academic discussions.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** self-supervised pretraining, segmentation, visual saliency, quality assessment
+- **multimodal learning:** multimodal large language model, vision-language-action
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2025]** 🔥🔥Our paper about quality assessment is accepted to AAAI 2025.
+- **[Oct. 2024]** Our paper about self-supervised pretraining is accepted to TNNLS 2024.
 
 {% include_relative _includes/publications.md %}
 
