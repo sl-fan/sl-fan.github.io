@@ -15,6 +15,7 @@ I am a Postdoctoral Research Fellow jointly affiliated with China Mobile (Shangh
 
 ## News
 
+- **[Mar. 2025]** 🔥🔥Our paper about visaul detection is accepted to NAACL 2025.
 - **[Jan. 2025]** 🔥🔥Our paper about quality assessment is accepted to AAAI 2025.
 - **[Oct. 2024]** Our paper about self-supervised pretraining is accepted to TNNLS 2024.
 
