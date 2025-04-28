@@ -4,6 +4,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (ACM MM)</autocolor></a></li>
+  <li><a href="https://www.2023.ieeeicme.org/"><autocolor>IEEE International Conference on Multimedia and Expo (ICME)
+  <li><a href="https://datacompressionconference.org/"><autocolor>Data Compression Conference (DCC)
   <li><a href="https://2023.ieee-iscas.org/"><autocolor>IEEE International Symposium on Circuits and Systems (ISCAS)</autocolor></a></li>
 </ul>
 
