@@ -11,7 +11,7 @@ I am a Postdoctoral Research Fellow jointly affiliated with China Mobile (Shangh
 ## Research Interests
 
 - **Computer Vision:** self-supervised pretraining, segmentation, visual saliency, quality assessment
-- **multimodal learning:** multimodal large language model, vision-language-action
+- **Multimodal Learning:** multimodal large language model, vision-language-action
 
 ## News
 - **[Apr. 2025]** 🔥🔥Our paper about quality assessment is accepted to IJCAI 2025.
