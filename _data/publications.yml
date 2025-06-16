@@ -27,6 +27,7 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.11889
     code: https://git.openi.org.cn/OpenPointCloud/PCSOD
+    page: https://git.openi.org.cn/OpenPointCloud/PCSOD
     bibtex: https://git.openi.org.cn/OpenPointCloud/PCSOD
     image: ./assets/img/pcsod.jpg
     notes: Tel Aviv, Israel
