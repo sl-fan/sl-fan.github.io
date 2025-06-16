@@ -7,7 +7,7 @@ main:
     pdf: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     code: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     bibtex: https://git.openi.org.cn/OpenPointCloud/nrpcqa
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CVAE.jpg
     notes: Montreal, Canada
 
   - title: "Point-MPP: Point Cloud Self-Supervised Learning From Masked Position Prediction"
