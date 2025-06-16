@@ -20,3 +20,13 @@ main:
     bibtex: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     notes: Early Access
     image: ./assets/img/pointmpp.jpg
+
+  - title: Salient Object Detection for Point Clouds
+    authors: <strong>Songlin Fan</strong>, Wei Gao, Ge Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2207.11889
+    code: https://git.openi.org.cn/OpenPointCloud/PCSOD
+    bibtex: https://git.openi.org.cn/OpenPointCloud/PCSOD
+    image: ./assets/img/pcsod.jpg
+    notes: Tel Aviv, Israel
