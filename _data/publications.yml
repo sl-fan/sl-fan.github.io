@@ -3,7 +3,7 @@ main:
   - title: Stochasticity-aware No-Reference Point Cloud Quality Assessment
     authors: <strong>Songlin Fan</strong>, Wei Gao, Zhineng Chen, Ge Li, Guoqing Liu, Qicheng Wang
     conference_short: IJCAI
-    conference: International Joint Conferences on Artificial Intelligence, 2025.
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
     pdf: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     code: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     bibtex: https://git.openi.org.cn/OpenPointCloud/nrpcqa
@@ -13,7 +13,7 @@ main:
   - title: "Point-MPP: Point Cloud Self-Supervised Learning From Masked Position Prediction"
     authors: <strong>Songlin Fan</strong>, Wei Gao, Ge Li
     conference_short: TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems，2024.
+    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>，2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10734244
     code: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     page: https://git.openi.org.cn/OpenPointCloud/Point-MPP
