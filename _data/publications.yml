@@ -4,7 +4,7 @@ main:
     authors: <strong>Songlin Fan</strong>, Wei Gao, Zhineng Chen, Ge Li, Guoqing Liu, Qicheng Wang
     conference_short: IJCAI
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
-    pdf: https://git.openi.org.cn/OpenPointCloud/nrpcqa
+    pdf: https://arxiv.org/pdf/2401.08926
     code: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     bibtex: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     image: ./assets/img/CVAE.jpg
