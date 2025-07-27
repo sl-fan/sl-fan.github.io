@@ -10,10 +10,11 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
 
 ## Research Interests
 
-- **Computer Vision:** self-supervised pretraining, segmentation, visual saliency, quality assessment
+- **Computer Vision:** self-supervised pretraining, segmentation, saliency, quality assessment, compression
 - **Multimodal Learning:** multimodal large language model, vision-language-action
 
 ## News
+- **[Jul. 2025]** 🔥🔥Our paper about compression is accepted to TPAMI 2025.
 - **[Apr. 2025]** 🔥🔥Our paper about quality assessment is accepted to IJCAI 2025.
 - **[Mar. 2025]** 🔥🔥Our paper about visaul detection is accepted to NAACL 2025.
 - **[Jan. 2025]** Our paper about quality assessment is accepted to AAAI 2025.
