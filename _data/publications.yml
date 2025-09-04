@@ -18,7 +18,7 @@ main:
     code: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     page: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     bibtex: https://git.openi.org.cn/OpenPointCloud/Point-MPP
-    notes: Early Access
+    notes: IEEE
     image: ./assets/img/pointmpp.jpg
 
   - title: Salient Object Detection for Point Clouds
