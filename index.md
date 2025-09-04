@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me （范松林）
 
-I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Industrial Research Institute and Fudan University. My research lies at the intersection of multimodal learning and computer vision, with a particular emphasis on 3D data processing and analysis. I received my Ph.D. in 2024 from the School of Computer Science, Peking University, and spent five years as a research intern at Peng Cheng Laboratory.
+I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Industrial Research Institute and Fudan University. I received my Ph.D. in 2024 from the School of Computer Science, Peking University, and spent five years as a research intern at Peng Cheng Laboratory. My research lies at the intersection of multimodal learning and computer vision, with a particular emphasis on 3D data processing and analysis. 
 
 😊I am deeply driven by a passion for scientific innovation and a strong commitment to lifelong learning. 🤝Feel free to reach out for potential collaborations or academic discussions.
 
