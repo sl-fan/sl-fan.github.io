@@ -14,6 +14,7 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
 - **Multimodal Learning:** multimodal large language model, vision-language-action
 
 ## News
+- **[Nov. 2025]** 🔥🔥Our paper about OCR is accepted to AAAI 2026.
 - **[Jul. 2025]** 🔥🔥Our paper about compression is accepted to TPAMI 2025.
 - **[Apr. 2025]** 🔥🔥Our paper about quality assessment is accepted to IJCAI 2025.
 - **[Mar. 2025]** 🔥🔥Our paper about visaul detection is accepted to NAACL 2025.
