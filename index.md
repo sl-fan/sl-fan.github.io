@@ -15,12 +15,21 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
 
 ## News
 
-- **[Oct. 2026]** Our paper on 3D reconstruction is accepted to IEEE TMM.
+- **[Oct. 2026]** 🔥🔥 Our paper on 3D reconstruction is accepted to IEEE TMM.
 - **[Aug. 2026]** 🎉 Awarded the NSFC Young Scientists Fund (Category C).
 - **[Jul. 2026]** 🔥🔥 Three papers are accepted to ACM MM 2026.
-- **[Jul. 2026]** 🏆 Won 1st place in the ICME 2026 Grand Challenge on JND Prediction for 3D Point Cloud Compression.
+- **[Jul. 2026]** Won 1st place in the ICME 2026 Grand Challenge on JND Prediction for 3D Point Cloud Compression.
 - **[Apr. 2026]** Our paper on point cloud compression is accepted to IEEE TIM.
 - **[Mar. 2026]** Our paper on world models is accepted to CVPR 2026.
+
+<!--
+- **[Nov. 2025]** 🔥🔥 Our paper about OCR is accepted to AAAI 2026.
+- **[Jul. 2025]** Our paper about compression is accepted to TPAMI 2025.
+- **[Apr. 2025]** Our paper about quality assessment is accepted to IJCAI 2025.
+- **[Mar. 2025]** Our paper about visual detection is accepted to NAACL 2025.
+- **[Jan. 2025]** Our paper about quality assessment is accepted to AAAI 2025.
+- **[Oct. 2024]** Our paper about self-supervised pretraining is accepted to TNNLS 2024.
+-->
 
 {% include_relative _includes/publications.md %}
 
