@@ -38,19 +38,19 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
   <li class="experience-item">
     <div class="experience-period">2024&ndash;Present</div>
     <div class="experience-details">
-      <h3>China Mobile &amp; Fudan University <span class="experience-role">Postdoctoral Fellow</span></h3>
+      <h3>China Mobile &amp; Fudan University <span class="experience-role">(Postdoctoral Fellow)</span></h3>
     </div>
   </li>
   <li class="experience-item">
     <div class="experience-period">2019&ndash;2024</div>
     <div class="experience-details">
-      <h3>Peking University <span class="experience-role">PhD</span></h3>
+      <h3>Peking University <span class="experience-role">(PhD)</span></h3>
     </div>
   </li>
   <li class="experience-item">
     <div class="experience-period">2014&ndash;2018</div>
     <div class="experience-details">
-      <h3>University of Electronic Science and Technology of China <span class="experience-role">Bachelor</span></h3>
+      <h3>University of Electronic Science and Technology of China <span class="experience-role">(Bachelor)</span></h3>
     </div>
   </li>
 </ol>
