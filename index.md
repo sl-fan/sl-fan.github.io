@@ -44,7 +44,7 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
   <li class="experience-item">
     <div class="experience-period">2019&ndash;2024</div>
     <div class="experience-details">
-      <h3>Peking University <span class="experience-role">&mdash; Ph.D.</span></h3>
+      <h3>Peking University <span class="experience-role">&mdash; PhD</span></h3>
     </div>
   </li>
   <li class="experience-item">
