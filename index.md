@@ -54,7 +54,7 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
     <div class="experience-period"><time datetime="2014">2014</time> &ndash; <time datetime="2018">2018</time></div>
     <div class="experience-details">
       <h3>University of Electronic Science and Technology of China</h3>
-      <p class="experience-role">Undergraduate Studies</p>
+      <p class="experience-role">Bachelor's Degree</p>
     </div>
   </li>
 </ol>
