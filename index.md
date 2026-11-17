@@ -32,6 +32,31 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
 - **[Oct. 2024]** Our paper about self-supervised pretraining is accepted to TNNLS 2024.
 -->
 
-{% include_relative _includes/publications.md %}
+## Education & Experience
 
-{% include_relative _includes/services.md %}
+<ol class="experience-list" aria-label="Education and professional experience, most recent first">
+  <li class="experience-item">
+    <div class="experience-period"><time datetime="2024">2024</time> &ndash; Present</div>
+    <div class="experience-details">
+      <h3>China Mobile &amp; Fudan University</h3>
+      <p class="experience-role">Postdoctoral Fellow</p>
+      <p class="experience-note">Jointly affiliated with China Mobile (Shanghai) Industrial Research Institute and Fudan University.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-period"><time datetime="2019">2019</time> &ndash; <time datetime="2024">2024</time></div>
+    <div class="experience-details">
+      <h3>Peking University</h3>
+      <p class="experience-role">Ph.D., School of Computer Science</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-period"><time datetime="2014">2014</time> &ndash; <time datetime="2018">2018</time></div>
+    <div class="experience-details">
+      <h3>University of Electronic Science and Technology of China</h3>
+      <p class="experience-role">Undergraduate Studies</p>
+    </div>
+  </li>
+</ol>
+
+{% include_relative _includes/publications.md %}
