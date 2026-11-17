@@ -5,7 +5,7 @@ main:
     conference_short: IJCAI
     conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2401.08926
-    code: https://git.openi.org.cn/OpenPointCloud/nrpcqa
+    page: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     bibtex: https://git.openi.org.cn/OpenPointCloud/nrpcqa
     image: ./assets/img/CVAE.jpg
     notes: Montreal, Canada
@@ -15,7 +15,6 @@ main:
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>，2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10734244
-    code: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     page: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     bibtex: https://git.openi.org.cn/OpenPointCloud/Point-MPP
     notes: IEEE
@@ -26,8 +25,7 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.11889
-    code: https://git.openi.org.cn/OpenPointCloud/PCSOD
-    page: https://git.openi.org.cn/OpenPointCloud/PCSOD
-    bibtex: https://git.openi.org.cn/OpenPointCloud/PCSOD
+    page: https://github.com/sl-fan/PCSODD
+    bibtex: https://github.com/sl-fan/PCSOD
     image: ./assets/img/pcsod.jpg
     notes: Tel Aviv, Israel
