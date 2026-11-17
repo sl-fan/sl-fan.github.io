@@ -34,28 +34,10 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
 
 ## Education & Experience
 
-<ol class="experience-list" aria-label="Education and professional experience, most recent first">
-  <li class="experience-item">
-    <div class="experience-period"><time datetime="2024">2024</time> &ndash; Present</div>
-    <div class="experience-details">
-      <h3>China Mobile &amp; Fudan University</h3>
-      <p class="experience-role">Postdoctoral Fellow</p>
-    </div>
-  </li>
-  <li class="experience-item">
-    <div class="experience-period"><time datetime="2019">2019</time> &ndash; <time datetime="2024">2024</time></div>
-    <div class="experience-details">
-      <h3>Peking University</h3>
-      <p class="experience-role">Ph.D., School of Computer Science</p>
-    </div>
-  </li>
-  <li class="experience-item">
-    <div class="experience-period"><time datetime="2014">2014</time> &ndash; <time datetime="2018">2018</time></div>
-    <div class="experience-details">
-      <h3>University of Electronic Science and Technology of China</h3>
-      <p class="experience-role">Bachelor's Degree</p>
-    </div>
-  </li>
-</ol>
+<ul class="experience-list">
+  <li><strong>2024&ndash;Present</strong> &middot; Postdoc, China Mobile &amp; Fudan University</li>
+  <li><strong>2019&ndash;2024</strong> &middot; Ph.D., Peking University</li>
+  <li><strong>2014&ndash;2018</strong> &middot; Bachelor's, <abbr title="University of Electronic Science and Technology of China">UESTC</abbr></li>
+</ul>
 
 {% include_relative _includes/publications.md %}
