@@ -40,7 +40,6 @@ I am a Postdoctoral Fellow jointly affiliated with China Mobile (Shanghai) Indus
     <div class="experience-details">
       <h3>China Mobile &amp; Fudan University</h3>
       <p class="experience-role">Postdoctoral Fellow</p>
-      <p class="experience-note">Jointly affiliated with China Mobile (Shanghai) Industrial Research Institute and Fudan University.</p>
     </div>
   </li>
   <li class="experience-item">

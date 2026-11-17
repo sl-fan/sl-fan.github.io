@@ -61,13 +61,6 @@
   line-height: 1.5;
 }
 
-.experience-details .experience-note {
-  margin-top: 5px;
-  color: var(--experience-muted);
-  font-size: 0.85rem;
-  line-height: 1.5;
-}
-
 @media (max-width: 560px) {
   .experience-item {
     grid-template-columns: minmax(0, 1fr);
