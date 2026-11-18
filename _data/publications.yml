@@ -25,7 +25,7 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.11889
-    page: https://github.com/sl-fan/PCSODD
+    page: https://github.com/sl-fan/PCSOD
     bibtex: https://github.com/sl-fan/PCSOD
     image: ./assets/img/pcsod.jpg
     notes: Tel Aviv, Israel
